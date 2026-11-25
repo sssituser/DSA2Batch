@@ -1,0 +1,113 @@
+1. Generate numbers for the given start and ending values.
+start = 1  end = 10       1,2,3,4,5,6,7,8,9,10.
+
+2.Create a Console Application which generates squares of numbers for the given  range below
+start = 1 end = 10
+1,4,9,16,25,36,49,64,81,100
+
+2.Create a Console Application which generates cubes of numbers for the given  range below
+start = 1 end = 10
+1,8,27,64,125,....1000
+
+3.Create a Console Appilcation which finds Sum numbers of given range.
+num = 10  sum: 1+2+3+....10 => 55
+
+4.Create a Console Which find the multiplication of the numbers(Factorial) of a
+given number.
+num = 5    1*2*3*4*5=>120
+/*
+1 to 20
+1,3,5,7,9,11,13,15,17,19.
+
+1,4,7,10,13,16,19.
+========================================================
+1. separate the digits of a given number ?
+num = 123  ans :  3,2,1.  or 1,2,3.
+
+2. Find the max digit of a given number ?
+num = 498  max digit = 9
+
+3. Find the min digig of given number ?
+num = 213  min digit = 1
+
+4.Write a program to find the sum of the digits of a number ?
+num = 345 Sum = 12(3+4+5)
+
+5.Write program find product of the digits of a number ?
+num = 123 product : 6(1*2*3)
+
+6.Find the Reverse of a number ?
+ num = 123 Reverse = 321
+
+7.Check given number is Palindrome or not
+num = 121   res = True
+num = 234   res = False
+
+8.Check given number is Special or not ()
+Example : 123   Special  1+2+3 = 1*2*3
+num = 123   res = True
+
+9. check given number is Armstrong or not?
+num = 153   res = True
+num = 123  res  = False
+10. Write a  program to check given number is Strong not ?
+        num = 145     sum = 1!+4!+5! => 1+24+120 => 145
+=========================================================
+11. Find the factors of a given number
+   num = 8     factors = 1,2,4,8.
+   num = 12    factors = 1,2,3,4,6,12.
+12. Find the factors count of given number ?
+        num = 8     factorsCount = 4
+        num = 12    factorscount = 6
+13. Find the factors Sum of given number
+  num = 8   fsum = 15(1+2+4+8)
+
+14.Check given  number Perfect number
+        num = 6    factors = 1,2,3 = 6
+15.Check given number Primme or not
+        num = 5    factors count = 2 is Prime
+
+======================================
+16 . Write a program to find the list of Palindromes for the given start and end values
+start = 1  end = 100   1,2,3,4,..9,11,22,33...99.
+17. Write a program to display the list of Armstong numbers for the givn start and end values.
+start = 1 end = 1000     1,2,3,...9,153,370,371,407.
+18. Write a program to find the list Strong  numbers for the given range?
+19. List of perfect numbers
+20. List of Prime numbers
+21. Lis of  special numbers.
+
+
+
+1. Readable coding : pascal case , camelcase naming , methodsname,functions,classname must be meaningful
+        def ispalindrome(num): -- > True, False
+        def isarmstrong(num):
+        def isprime(sum)
+        def isperfect()
+
+        Exception
+
+
+2. Changeble coding :
+
+                num1 num2 num3
+
+
+                if num1>num2 and num1>num3:
+                        print(num1,'is max')
+                elif(num2>num3):
+                        print(num2,'is max')
+                else:
+                        print(num3,'is max)
+
+
+
+
+
+
+
+3. Testable coding
+
+
+
+
