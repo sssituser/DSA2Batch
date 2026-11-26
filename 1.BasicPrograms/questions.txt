@@ -26,6 +26,9 @@ num = 123  ans :  3,2,1.  or 1,2,3.
 
 2. Find the max digit of a given number ?
 num = 498  max digit = 9
+max = 8
+
+
 
 3. Find the min digig of given number ?
 num = 213  min digit = 1
@@ -42,6 +45,12 @@ num = 123 product : 6(1*2*3)
 7.Check given number is Palindrome or not
 num = 121   res = True
 num = 234   res = False
+
+
+
+
+
+
 
 8.Check given number is Special or not ()
 Example : 123   Special  1+2+3 = 1*2*3
