@@ -59,8 +59,11 @@ num = 123   res = True
 9. check given number is Armstrong or not?
 num = 153   res = True
 num = 123  res  = False
+
 10. Write a  program to check given number is Strong not ?
         num = 145     sum = 1!+4!+5! => 1+24+120 => 145
+
+Home # Create an application which generates list of strong number
 =========================================================
 11. Find the factors of a given number
    num = 8     factors = 1,2,4,8.
