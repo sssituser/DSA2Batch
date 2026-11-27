@@ -10,8 +10,6 @@ def getfactors(num:int):
             li.append(i)
     return li
 
-
-
 def getfactorscount(num:int):
     count=0
     for i in range(1,num+1):

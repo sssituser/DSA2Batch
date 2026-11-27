@@ -46,12 +46,6 @@ num = 123 product : 6(1*2*3)
 num = 121   res = True
 num = 234   res = False
 
-
-
-
-
-
-
 8.Check given number is Special or not ()
 Example : 123   Special  1+2+3 = 1*2*3
 num = 123   res = True
@@ -89,8 +83,6 @@ start = 1 end = 1000     1,2,3,...9,153,370,371,407.
 20. List of Prime numbers
 21. Lis of  special numbers.
 
-
-
 1. Readable coding : pascal case , camelcase naming , methodsname,functions,classname must be meaningful
         def ispalindrome(num): -- > True, False
         def isarmstrong(num):
@@ -99,12 +91,9 @@ start = 1 end = 1000     1,2,3,...9,153,370,371,407.
 
         Exception
 
-
 2. Changeble coding :
 
                 num1 num2 num3
-
-
                 if num1>num2 and num1>num3:
                         print(num1,'is max')
                 elif(num2>num3):
